@@ -16,7 +16,7 @@ Used Cron Jobs [django_cron](https://django-cron.readthedocs.io/en/latest/introd
 - Inside the `setting.py` file, fill the variable `GOOGLE_API_KEYS` with all the API Keys available,the list should be filled as `['API_KEY_1','API_KEY_2',...]`
 - For getting an API key follow [this](https://developers.google.com/youtube/v3/getting-started)
 - Setup crontab to run Job, Follow [this](https://django-cron.readthedocs.io/en/latest/installation.html)
-- Run the server using `python manage.py runserver`
+- Run the server using `python manage.py runserver `
 
 ## Screenshots
 
